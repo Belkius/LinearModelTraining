@@ -13,7 +13,7 @@ This notebook is an exploration of the different linear regression models, their
 - Scipy
 
 ### Dataset
-The data used in this ntoebook is generated as an exampled in the beginning.
+The data used in this notebook is generated as an exampled in the beginning.
 Later on, the data used is the Iris dataset from the scikit-learn library.
 
 ### Algorithms
